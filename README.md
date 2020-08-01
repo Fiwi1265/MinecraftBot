@@ -1,4 +1,4 @@
-# MinecraftBot
+# Minecraft bot for Discord
 
 ## Requirements:
 
